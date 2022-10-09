@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Taliavivrett
 - 👀 I’m interested in furthering my knowledge in computer science!
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on not sure yet!
+- 💞️ I’m not sure what I'm looking to collaborate on yet!
 - 📫 How to reach me taliavivrett@gmail.com
 
 <!---
