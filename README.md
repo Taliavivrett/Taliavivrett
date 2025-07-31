@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Taliavivrett
-- 👀 I’m interested in furthering my knowledge in computer science!
-- 🌱 I’m currently learning full stack development
-- 💞️ I’m taking classes on systems programming and discrete structures currently
-- 📫 How to reach me taliavivrett@gmail.com
+- 📫 How to reach me taliavivrett@gmail.com/tvivrett@calpoly.edu
 
 <!---
 Taliavivrett/Taliavivrett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
